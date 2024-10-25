@@ -21,10 +21,10 @@ I am a **third-year Applied Mathematics and Computer Engineering** student at Qu
 - **Technologies:** MATLAB 
 ## 📚 Current Coursework
 
-- **Data Structures and Algorithms:** In-depth study of data organization, algorithm design, and complexity analysis.
-- **Machine Learning:** Exploration of supervised and unsupervised learning techniques, model evaluation, and deployment.
-- **Software Engineering:** Principles of software development, including version control, testing, and agile methodologies.
-- **Financial Mathematics:** Application of mathematical methods to financial problems, including risk assessment and portfolio optimization.
+- **Algorithms and Data Structures:** Study of data organization, algorithm design, and complexity analysis.
+- **Fundamentals of Software Development:** Key principles of software engineering, including version control, testing, and agile methodologies.
+- **Probability and Financial Mathematics:** Applications of probability theory and mathematical methods to solve financial problems, including risk assessment and optimization.
+
 
 ## 📫 Contact Me
 
