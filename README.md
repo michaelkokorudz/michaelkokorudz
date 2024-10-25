@@ -11,26 +11,14 @@ I am a **third-year Applied Mathematics and Computer Engineering** student at Qu
 
 ## 👨‍💻 Software Development Projects
 
-### [Project Name 1](link-to-project-1)
-*Brief description of the project, technologies used, and your role.*
+### Gender and Nationality Prediction Model  
+- **Technologies:** Java, Spring Boot, Maven, Elasticsearch, Excel  
 
-- **Technologies:** Python, TensorFlow, React
-- **Description:** Developed a machine learning model to predict stock prices with a user-friendly web interface.
+### Machine Learning Stock Trading Algorithm  
+- **Technologies:** Python, TensorFlow, Keras, QuantConnect  
 
-### [Project Name 2](link-to-project-2)
-*Brief description of the project, technologies used, and your role.*
-
-- **Technologies:** Java, Spring Boot, MySQL
-- **Description:** Created a backend system for an e-commerce platform, handling user authentication and order processing.
-
-### [Project Name 3](link-to-project-3)
-*Brief description of the project, technologies used, and your role.*
-
-- **Technologies:** C++, OpenGL
-- **Description:** Designed a real-time rendering engine for 3D graphics applications.
-
-*(Replace "link-to-project-1", "link-to-project-2", and "link-to-project-3" with actual URLs to your project repositories.)*
-
+### Multi-Agent Shuttle System  
+- **Technologies:** MATLAB 
 ## 📚 Current Coursework
 
 - **Data Structures and Algorithms:** In-depth study of data organization, algorithm design, and complexity analysis.
@@ -38,6 +26,7 @@ I am a **third-year Applied Mathematics and Computer Engineering** student at Qu
 - **Software Engineering:** Principles of software development, including version control, testing, and agile methodologies.
 - **Financial Mathematics:** Application of mathematical methods to financial problems, including risk assessment and portfolio optimization.
 
+## 📫 Contact Me
 ## 📫 Contact Me
 
 - **Email:** [your.email@example.com](mailto:michaelkokorudz@yahoo.com)
