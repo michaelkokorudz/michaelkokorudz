@@ -27,9 +27,8 @@ I am a **third-year Applied Mathematics and Computer Engineering** student at Qu
 - **Financial Mathematics:** Application of mathematical methods to financial problems, including risk assessment and portfolio optimization.
 
 ## 📫 Contact Me
-## 📫 Contact Me
 
-- **Email:** [your.email@example.com](mailto:michaelkokorudz@yahoo.com)
+- **Email:** [michaelkokorudz@yahoo.com](mailto:michaelkokorudz@yahoo.com)
 - **LinkedIn:** [Michael Kokorudz](https://www.linkedin.com/in/michaelkokorudz/)
 
 ---
