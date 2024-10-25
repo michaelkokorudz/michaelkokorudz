@@ -3,7 +3,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/michaelkokorudz/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-c14438?logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-c14438?logo=mail)](mailto:michaelkokorudz@yahoo.com)
 
 ## 👨‍💼 About Me
 
