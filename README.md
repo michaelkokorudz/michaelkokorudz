@@ -9,10 +9,6 @@
 
 I am a **third-year Applied Mathematics and Computer Engineering** student at Queen's University, passionate about technology, software development, finance, and machine learning. I enjoy tackling complex problems and continuously expanding my knowledge in various tech domains.
 
-## 📄 Resume
-
-You can view my [Resume](link-to-your-resume.pdf) here. *(Replace "link-to-your-resume.pdf" with the actual URL to your resume.)*
-
 ## 👨‍💻 Software Development Projects
 
 ### [Project Name 1](link-to-project-1)
@@ -44,9 +40,8 @@ You can view my [Resume](link-to-your-resume.pdf) here. *(Replace "link-to-your-
 
 ## 📫 Contact Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [your.email@example.com](mailto:michaelkokorudz@yahoo.com)
 - **LinkedIn:** [Michael Kokorudz](https://www.linkedin.com/in/michaelkokorudz/)
-- **GitHub:** [@YourGitHubUsername](https://github.com/YourGitHubUsername)
 
 ---
 
