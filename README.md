@@ -22,7 +22,7 @@ I am a **third-year Applied Mathematics and Computer Engineering** student at Qu
 ## 📚 Current Coursework
 
 - **Algorithms and Data Structures:** Study of data organization, algorithm design, and complexity analysis.
-- **Fundamentals of Software Development:** Key principles of software engineering, including version control, testing, and agile methodologies.
+- **Fundamentals of Software Development:** Key principles of software engineering, including large-scale project design, testing, and agile methodologies in C++.
 - **Probability and Financial Mathematics:** Applications of probability theory and mathematical methods to solve financial problems, including risk assessment and optimization.
 
 
