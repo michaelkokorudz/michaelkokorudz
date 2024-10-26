@@ -14,11 +14,16 @@ I am a **third-year Applied Mathematics and Computer Engineering** student at Qu
 ### Gender and Nationality Prediction Model  
 - **Technologies:** Java, Spring Boot, Maven, Elasticsearch, Excel  
 
-### Machine Learning Stock Trading Algorithm  
+### Machine Learning Bitcoin Trading Algorithm  
 - **Technologies:** Python, TensorFlow, Keras, QuantConnect  
 
 ### Multi-Agent Shuttle System  
-- **Technologies:** MATLAB 
+- **Technologies:** MATLAB
+
+### Machine Learning Stock Predictor
+- **Technologies:** Python, Pandas, NumPy, Sklearn
+
+  
 ## 📚 Current Coursework
 
 - **Algorithms and Data Structures:** Study of data organization, algorithm design, and complexity analysis.
