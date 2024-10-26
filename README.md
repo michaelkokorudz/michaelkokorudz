@@ -7,7 +7,7 @@
 
 ## 👨‍💼 About Me
 
-I am a **third-year Applied Mathematics and Computer Engineering** student at Queen's University, passionate about technology, software development, finance, and machine learning. I enjoy tackling complex problems and continuously expanding my knowledge in various tech domains.
+I am a **third-year Applied Mathematics and Computer Engineering** student at Queen's University, passionate about technology, software development, finance, and machine learning. 
 
 ## 👨‍💻 Software Development Projects
 
