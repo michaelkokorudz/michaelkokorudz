@@ -14,9 +14,6 @@ I am a **third-year Applied Mathematics and Computer Engineering** student at Qu
 ### Machine Learning Bitcoin Trading Algorithm  
 - **Technologies:** Python, TensorFlow, Keras, QuantConnect  
 
-### Multi-Agent Shuttle System  
-- **Technologies:** MATLAB
-
 ### Machine Learning Stock Predictor
 - **Technologies:** Python, Pandas, NumPy, Sklearn
 
