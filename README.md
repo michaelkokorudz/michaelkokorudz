@@ -3,7 +3,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/michaelkokorudz/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-c14438?logo=mail)](mailto:michaelkokorudz@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-c14438?logo=mail)](mailto:21mek25@queensu.ca)
 
 ## 👨‍💼 About Me
 
@@ -27,7 +27,8 @@ I am a **third-year Applied Mathematics and Computer Engineering** student at Qu
 
 ## 📫 Contact Me
 
-- **Email:** [michaelkokorudz@yahoo.com](mailto:michaelkokorudz@yahoo.com)
+- **Personal Email:** [michaelkokorudz@yahoo.com](mailto:michaelkokorudz@yahoo.com)
+- **School/Work Email:** [21mek25@queensu.ca](mailto:21mek25@queensu.ca)
 - **LinkedIn:** [Michael Kokorudz](https://www.linkedin.com/in/michaelkokorudz/)
 
 ---
