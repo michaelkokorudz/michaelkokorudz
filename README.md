@@ -9,14 +9,6 @@
 
 I am a **third-year Applied Mathematics and Computer Engineering** student at Queen's University, passionate about technology, software development, finance, and machine learning. 
 
-## 👨‍💻 Software Development Projects 
-
-### Machine Learning Bitcoin Trading Algorithm  
-- **Technologies:** Python, TensorFlow, Keras, QuantConnect  
-
-### Machine Learning Stock Predictor
-- **Technologies:** Python, Pandas, NumPy, Sklearn
-
   
 ## 📚 Current Coursework
 
