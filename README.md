@@ -18,4 +18,4 @@ I am a Mathematics and Computer Engineering student at Queen's University, passi
 
 ---
 
-Feel free to reach out for collaborations, opportunities, or just to connect!
+Always happy to chat, so reach out if you want to collab, have an opportunity, or just want to connect!
