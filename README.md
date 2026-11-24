@@ -2,8 +2,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/michaelkokorudz/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-c14438?logo=mail)](mailto:michael.kokorudz@queensu.ca)
+[![LinkedIn](https://raw.githubusercontent.com/michaelkokorudz/michaelkokorudz/main/arcade-linkedin.svg)](https://www.linkedin.com/in/michaelkokorudz/)
+[![Email](https://raw.githubusercontent.com/michaelkokorudz/michaelkokorudz/main/arcade-email.svg)](mailto:michael.kokorudz@queensu.ca)
 
 ## About Me
 
